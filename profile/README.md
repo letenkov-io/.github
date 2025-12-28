@@ -13,4 +13,4 @@ This is not a community project or open-call initiative;
 it is a structured home for technical notes and curated examples.
 
 For professional context:
-https://letenkov.ru
+https://letenkov.ru/en
